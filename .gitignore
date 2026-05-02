@@ -36,7 +36,3 @@ HELP.md
 .env
 *.local
 
-# Project-local artefacts (not for GitHub)
-SGA_Library_Report.pdf
-generate_report.py
-.claude/
