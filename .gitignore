@@ -1,0 +1,37 @@
+# Build output
+target/
+build/
+out/
+*.class
+*.jar
+*.war
+
+# IDE
+.idea/
+*.iml
+.vscode/
+.project
+.classpath
+.settings/
+nbproject/
+.factorypath
+
+# Logs
+*.log
+logs/
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Spring Boot
+spring-boot-application.log
+HELP.md
+
+# Maven wrapper (keep if you want; commenting out)
+# !mvnw
+# !mvnw.cmd
+
+# Local env
+.env
+*.local
